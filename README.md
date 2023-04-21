@@ -19,3 +19,7 @@ Accuracy of this model is ~98%
 In this project I have upload the python code that will recognise the characters ad digits of Devanagari Lipi   
 
 Description : This code successfully recognises hindi characters and digits.
+
+- A convolutional neural network (CNN or ConvNet) is a network architecture for deep learning that learns directly from data. CNNs are particularly useful for finding patterns in images to recognize objects, classes, and categories. They can also be quite effective for classifying audio, time-series, and signal data.
+
+- A CNN is a kind of network architecture for deep learning algorithms and is specifically used for image recognition and tasks that involve the processing of pixel data. There are other types of neural networks in deep learning, but for identifying and recognizing objects, CNNs are the network architecture of choic
