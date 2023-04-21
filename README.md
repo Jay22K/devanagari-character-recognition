@@ -25,4 +25,4 @@ Description : This code successfully recognises hindi characters and digits.
 - A CNN is a kind of network architecture for deep learning algorithms and is specifically used for image recognition and tasks that involve the processing of pixel data. There are other types of neural networks in deep learning, but for identifying and recognizing objects, CNNs are the network architecture of choice.
 
 
-<img scr="/90650dnn2.jpeg">
+<img scr="./90650dnn2.jpeg">
